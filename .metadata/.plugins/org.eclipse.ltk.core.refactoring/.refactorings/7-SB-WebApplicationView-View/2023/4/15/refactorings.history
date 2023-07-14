@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;7-SB-WebApplicationView-View/src/main/webapp/views/aboat.jsp&apos; to &apos;about.jsp&apos;" description="Rename resource &apos;aboat.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/views/aboat.jsp" name="about.jsp" stamp="1681284016287" updateReferences="true"/>
+</session>

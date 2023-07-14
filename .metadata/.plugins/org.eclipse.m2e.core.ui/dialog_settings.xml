@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\vikas\OneDrive\Documents\Product"/>
+			<item value="C:\Users\vikas\Downloads\StaticCrudForProductFor-SB-Appn"/>
+			<item value="C:\Users\vikas\Downloads\SB-StaticCrudForProduct"/>
+			<item value="C:\Users\vikas\Downloads\18-SB-StaticAppnForDataJpa"/>
+			<item value="C:\Users\vikas\Downloads\17-SB-StaticApplicationForDataJpa\17-SB-StaticApplicationForDataJpa"/>
+			<item value="C:\Users\vikas\Downloads\17-SB-StaticApplicationForDataJpa"/>
+			<item value="C:\Users\vikas\Downloads\SB-StaticApplicationForDataJpa"/>
+			<item value="C:\Users\vikas\Downloads\17-SB-StaticAppnforDataJPA"/>
+			<item value="C:\Users\vikas\Downloads\SB-StaticAppnforDataJPA"/>
+			<item value="C:\Users\vikas\Downloads\17-SB-StaticAppnforDataJpa"/>
+			<item value="C:\Users\vikas\Downloads\SB-StaticAppnforDataJpa"/>
+			<item value="C:\Users\vikas\Downloads\SB-WebApplicationUserRegistration"/>
+			<item value="C:\Users\vikas\Downloads\14-SB-WebapplicationforModelAttribute"/>
+			<item value="C:\Users\vikas\Downloads\9-SB-WebApplicationforBiggest"/>
+			<item value="C:\Users\vikas\Downloads\8-SB-WebApplicationForElectricityBill"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.jpa"/>
+		</list>
+		<list key="groupId">
+			<item value="com.jpa"/>
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.jpa"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="17-SB-StaticApplicationForDataJpa"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
